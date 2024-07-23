@@ -18,7 +18,7 @@ print(alp)
 
 # line 79 Python program to insert element at a given location in Array.
 arr = [1,2,3,4444,5,6,78,8]
-arr.insert(3,"Adarsh")
+arr.insert(3,"Bhargav")
 print(arr)
 arr = [1,2,3,4,5,6,7,8,9]
 print("The list :",arr)
@@ -50,7 +50,7 @@ print(type(lst))
 print(lst)
 
 # m -2 
-lst = [1,2,3,3.6,"Adarsh",True]
+lst = [1,2,3,3.6,"Bhargav",True]
 print(lst)
 
 # m - 3
@@ -66,7 +66,7 @@ print(lst)
 
 
 # line - 82 Python program to access a given element from the nested list ? 
-lst = [1,2,3,[4,5,6,[8,9,10],100,200],900,"Adarsh"]
+lst = [1,2,3,[4,5,6,[8,9,10],100,200],900,"Bhargav"]
 print(lst)
 ele = 9
 print(lst[3][3][1])

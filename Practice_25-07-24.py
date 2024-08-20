@@ -1,15 +1,15 @@
 # line - 103 Write a program to create a set.
 # m - 1
-set1 = {1,"Adarsh",False,10.90}
+set1 = {1,"bhargav",False,10.90}
 print(set1)
 
 # m- 2
-a = [1,3,44,5,6,64,2,434,85,"Adarsh",True,False]
+a = [1,3,44,5,6,64,2,434,85,"bhargav",True,False]
 set2 = set(a)
 print(set2)
 
 # m - 3
-b = (1,"adarsh",False,10.56)
+b = (1,"bhargav",False,10.56)
 set3 = set(b)
 print(set3)
 
@@ -61,9 +61,9 @@ print(set7)
 
 
 # line 107 Write a python program to create a intersection of set ?
-facebook_users = {"Aadarsh","Avinesh","Siddarth","Anvesh","Vamshi"}
-insta_users = {"Aadarsh","teja","Abhi","Sunny","Ram","Avinesh"}
-twitter_users = {"Abhi","Aadarsh","teja","Chinna"}
+facebook_users = {"bhargav","rohit","prudhvi","srinu","Vamshi"}
+insta_users = {"bhargav","vineeth","sachin","manya","nakul","ninja"}
+twitter_users = {"vineeth","bhargav","srinu","varma"}
 res = facebook_users.intersection(insta_users,twitter_users)
 print(res)
 

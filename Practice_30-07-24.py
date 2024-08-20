@@ -2,21 +2,21 @@
 # Write a python program to  add a key to a dictionary ?
 # m -1
 d = {'comany':"skywaves",'locality':'Kondapur'}
-d['name']='Adarsh'
+d['name']='bhargav'
 d['age']='24'
 d['role']='Python developer'
 print(d)
 
 # m - 2
 d = {'comany':"skywaves",'locality':'Kondapur'}
-d1 ={'name':'Adarsh'}
+d1 ={'name':'bhargav'}
 d.update(d1)
 print(d)
 
 # Write a python program to check weather the given value is present in the dictionary or not ?
 
 i = eval(input("enter the value :"))
-dic = {'one':1,'two':2,'name':"adarsh",'age':24,'key':'Value'}
+dic = {'one':1,'two':2,'name':"adarsh",'age':22,'key':'Value'}
 key = dic.values()
 if i in key:
     print("Yes exist")
@@ -59,8 +59,8 @@ for i in st :
 print(dic)
 
 # Write a python program to merge two python dictionaries ?
-d1 = {'name':'adarsh','role':'python developer'}
-d2 = {'age':24,'company':'skywaves'}
+d1 = {'name':'bhargav','role':'python developer'}
+d2 = {'age':22,'company':'skywaves'}
 d1.update(d2)
 print(d1)
 

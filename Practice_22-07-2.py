@@ -18,7 +18,7 @@ print(alp)
 
 # line 79 Python program to insert element at a given location in Array.
 arr = [1,2,3,4444,5,6,78,8]
-arr.insert(3,"Adarsh")
+arr.insert(3,"bhargav")
 print(arr)
 arr = [1,2,3,4,5,6,7,8,9]
 print("The list :",arr)
@@ -50,7 +50,7 @@ print(type(lst))
 print(lst)
 
 # m -2 
-lst = [1,2,3,3.6,"Adarsh",True]
+lst = [1,2,3,3.6,"bhargav",True]
 print(lst)
 
 # m - 3

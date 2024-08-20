@@ -38,7 +38,7 @@ print(list1.pop(ind))
 
 # line - 90 Write a pytho program to delete given element from the list?
 
-list1 = ["Adarsh",100,200,True,False,100.70]
+list1 = ["bhargav",100,200,True,False,100.70]
 print("The List is :",list1)
 ele = eval(input("Enter the ele :"))
 if ele in list1:

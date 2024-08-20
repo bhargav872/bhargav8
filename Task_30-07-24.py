@@ -27,7 +27,7 @@ print(b)
 print(c)
 print(d)
 
-dta = ("Adarsh",24,"Python Developer")
+dta = ("bhargav",22,"Python Developer")
 name,age,role=dta
 print(name)
 print(age)

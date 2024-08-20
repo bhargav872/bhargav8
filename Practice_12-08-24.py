@@ -43,8 +43,8 @@ class Person:
         self.age = age   
     def greet(self):
         print("my name is ",self.name ," and i am ",self.age," years old.")
-p1 = Person("Adarsh",24)
-p2 = Person("Avinesh", 26)
+p1 = Person("bhargav",22)
+p2 = Person("bobby",23)
 p1.greet()
 p2.greet()
 print(p1.name)  
@@ -94,11 +94,11 @@ class Employee:
     def detail(self):
         
         print(self.name,'with eid',self.id,'with salary of',self.salary,'working in ',Employee.company,'the employee count is :',Employee.count)
-c = Employee('Adarsh',169,26000)
+c = Employee('bhargav',169,26000)
 c.detail()
-b = Employee('Murali',162,26000)
+b = Employee('bobby',162,26000)
 b.detail()
-d = Employee('Chandu',167,26000)
+d = Employee('vineeth',167,26000)
 d.detail()
 
 # local variables

@@ -126,7 +126,7 @@ class NewYorker(American):
     def details2(self):
         print('The Employee name is ',self.name,'Domain is ',self.domain,' And the Salary is ',self.salary,'in',self.company,'Company')
 
-det = NewYorker('Adarsh','Python',30000,'Skywaves Pvt Ltd')
+det = NewYorker('bhargav','Python',30000,'Skywaves Pvt Ltd')
 det.details1()
 det.details2()
 
